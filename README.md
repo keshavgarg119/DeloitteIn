@@ -1,10 +1,11 @@
-**Here is the background information on your task**
+#**Here is the background information on your task**
 
 We have signed a new account: Daikibo Industrials, a global leader in the manufacturing of heavy machinery, founded and headquartered in Tokyo, Japan. They needed assistance with a variety of problems and were impressed to find out Deloitte could help in all verticals.
 
 Daikibo is in the process of integrating IIoT (industrial internet of things) devices to monitor, measure and analyse their manufacturing processes. Half of their infrastructure uses devices streaming telemetry data in one format, and the other half in another. They need your help to combine the two.
 
-**Here is your task**
+
+#**Here is your task**
 
 Take the following steps to complete the task:
 
